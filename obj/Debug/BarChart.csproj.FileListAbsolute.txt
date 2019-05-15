@@ -1,0 +1,6 @@
+D:\ZPK\BarChart\bin\Debug\BarChart.dll
+D:\ZPK\BarChart\bin\Debug\BarChart.pdb
+D:\ZPK\BarChart\obj\Debug\BarChart.csprojAssemblyReference.cache
+D:\ZPK\BarChart\obj\Debug\BarChart.csproj.CoreCompileInputs.cache
+D:\ZPK\BarChart\obj\Debug\BarChart.dll
+D:\ZPK\BarChart\obj\Debug\BarChart.pdb
